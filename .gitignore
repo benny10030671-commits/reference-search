@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+# per-user settings (copy config.example.json)
+config.json
